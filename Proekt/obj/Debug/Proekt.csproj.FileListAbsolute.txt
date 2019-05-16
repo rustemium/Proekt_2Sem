@@ -1,0 +1,10 @@
+C:\Users\Рустем\source\repos\Proekt\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\Рустем\source\repos\Proekt\Proekt\bin\Debug\Proekt.exe
+C:\Users\Рустем\source\repos\Proekt\Proekt\bin\Debug\Proekt.pdb
+C:\Users\Рустем\source\repos\Proekt\Proekt\obj\Debug\Proekt.csprojAssemblyReference.cache
+C:\Users\Рустем\source\repos\Proekt\Proekt\obj\Debug\Proekt.Project.resources
+C:\Users\Рустем\source\repos\Proekt\Proekt\obj\Debug\Proekt.Properties.Resources.resources
+C:\Users\Рустем\source\repos\Proekt\Proekt\obj\Debug\Proekt.csproj.GenerateResource.cache
+C:\Users\Рустем\source\repos\Proekt\Proekt\obj\Debug\Proekt.csproj.CoreCompileInputs.cache
+C:\Users\Рустем\source\repos\Proekt\Proekt\obj\Debug\Proekt.exe
+C:\Users\Рустем\source\repos\Proekt\Proekt\obj\Debug\Proekt.pdb
